@@ -24,9 +24,9 @@ function App() {
     <>
   <h3>React Core Concepts 2</h3>
   <Friends></Friends>
-  {/* <Counter></Counter> */}
-  {/* <Team></Team> */}
-  {/* <Users></Users> */}
+  <Counter></Counter>
+  <Team></Team>
+  <Users></Users>
   {/* <button onclick="handleClick()">Click Me</button> */}
 
   <button onClick={handleClick}>Click Me</button>
